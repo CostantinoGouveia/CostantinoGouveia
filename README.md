@@ -7,3 +7,11 @@
  ## Estudante de Engenharia Informática - ISIA 
  ## Cadete da escola de Pogramacão 42 Luanda 
 
+ ´´´
+ void  repeat () {
+     eat();
+     sleep();
+     code();
+     repeat();
+ }
+ ´´´
