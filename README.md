@@ -4,16 +4,67 @@
 
 <div align="center">
 
- ## Sou Angolano e tenho 23 anos
- ## Estudante de Engenharia Informática - ISIA 
- ## Cadete da escola de Pogramacão 42 Luanda 
+# 👨‍💻 Costantino Gouveia
+
+🎓 **Estudante de Engenharia Informática — ISIA**  
+💻 **Cadete da Escola de Programação 42 Luanda**  
+🇦🇴 **Angola | 23 anos**
+
 </div>
- 
- ```
- void  repeat () {
-     eat();
-     sleep();
-     code();
-     repeat();
+
+---
+
+## 🧭 Sobre mim
+
+Sou formado em Engenharia Informática e cadete da Escola 42 Luanda, com forte foco em **programação de baixo nível**, **resolução de problemas** e **boas práticas de desenvolvimento de software**.  
+Tenho interesse em sistemas, algoritmos, estruturas de dados e desenvolvimento de soluções eficientes e bem estruturadas.
+
+Busco continuamente evoluir técnica e profissionalmente através de projetos práticos, estudo autónomo e desafios técnicos.
+
+---
+
+## 🛠️ Competências Técnicas
+
+### Linguagens de Programação
+- **C**
+- **C++**
+- JavaScript (básico)
+- Python (básico)
+
+### Sistemas e Ferramentas
+- **Linux (ambiente de desenvolvimento)**
+- Git & GitHub
+- Makefile
+- GDB (debugging)
+- Valgrind
+
+### Conceitos
+- Programação Estruturada e Orientada a Objetos  
+- Gestão de Memória  
+- Algoritmos e Estruturas de Dados  
+- Programação concorrente (threads e mutexes)  
+- Parsing e análise sintática básica  
+
+---
+
+## 📚 Formação
+
+- **Licenciatura em Engenharia Informática** — ISIA  
+- **Escola de Programação 42 Luanda**  
+
+---
+
+## 🔁 Filosofia de Desenvolvimento
+
+```c
+void    professional_growth(void)
+{
+    while (true)
+    {
+        learn();
+        code();
+        review();
+        improve();
+    }
 }
- ```
+
