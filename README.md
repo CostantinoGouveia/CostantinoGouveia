@@ -6,9 +6,9 @@
 
 # 👨‍💻 Costantino Gouveia
 
-🎓 **Estudante de Engenharia Informática — ISIA**  
+🎓 **Formado em Engenharia Informática — ISIA**  
 💻 **Cadete da Escola de Programação 42 Luanda**  
-🇦🇴 **Angola | 23 anos**
+🇦🇴 **Angola | 25 anos**
 
 </div>
 
@@ -34,9 +34,9 @@ Busco continuamente evoluir técnica e profissionalmente através de projetos pr
 ### Sistemas e Ferramentas
 - **Linux (ambiente de desenvolvimento)**
 - Git & GitHub
+- Docker
 - Makefile
 - GDB (debugging)
-- Valgrind
 
 ### Conceitos
 - Programação Estruturada e Orientada a Objetos  
