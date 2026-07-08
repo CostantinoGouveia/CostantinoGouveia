@@ -28,7 +28,8 @@ Busco continuamente evoluir técnica e profissionalmente através de projetos pr
 ### Linguagens de Programação
 - **C**
 - **C++**
-- JavaScript (básico)
+- **JavaScript**
+- **TypeScript**
 - Python (básico)
 
 ### Sistemas e Ferramentas
